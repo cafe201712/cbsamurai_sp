@@ -13,7 +13,7 @@
 
 ```
 git clone https://github.com/cafe201712/cbsamurai_sp
-cd cbsamurai_app
+cd cbsamurai_sp
 
 npm install
 ```
